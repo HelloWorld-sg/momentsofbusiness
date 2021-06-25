@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/momentsofbusiness/static/css/main.e0481a10.chunk.css",
+    "main.js": "/momentsofbusiness/static/js/main.6f518ce8.chunk.js",
+    "main.js.map": "/momentsofbusiness/static/js/main.6f518ce8.chunk.js.map",
+    "runtime-main.js": "/momentsofbusiness/static/js/runtime-main.17a53e46.js",
+    "runtime-main.js.map": "/momentsofbusiness/static/js/runtime-main.17a53e46.js.map",
+    "static/js/2.9e49b179.chunk.js": "/momentsofbusiness/static/js/2.9e49b179.chunk.js",
+    "static/js/2.9e49b179.chunk.js.map": "/momentsofbusiness/static/js/2.9e49b179.chunk.js.map",
+    "index.html": "/momentsofbusiness/index.html",
+    "static/css/main.e0481a10.chunk.css.map": "/momentsofbusiness/static/css/main.e0481a10.chunk.css.map",
+    "static/js/2.9e49b179.chunk.js.LICENSE.txt": "/momentsofbusiness/static/js/2.9e49b179.chunk.js.LICENSE.txt",
+    "static/media/SingpassApp.58566809.jpg": "/momentsofbusiness/static/media/SingpassApp.58566809.jpg",
+    "static/media/icons.03f02d3f.svg": "/momentsofbusiness/static/media/icons.03f02d3f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17a53e46.js",
+    "static/js/2.9e49b179.chunk.js",
+    "static/css/main.e0481a10.chunk.css",
+    "static/js/main.6f518ce8.chunk.js"
+  ]
+}
