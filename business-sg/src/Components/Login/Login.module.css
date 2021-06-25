@@ -1,0 +1,53 @@
+.logo {
+  font-size: 5rem;
+  margin-left: 1.5rem;
+}
+
+.login {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4rem;
+}
+
+.login h1 {
+  display: flex;
+  flex-flow: row;
+  justify-content: flex-start;
+  gap: 0;
+}
+
+.singpass {
+  margin-right: 15rem;
+}
+
+.info__welcome {
+  font-size: 5rem;
+}
+
+.info__splash {
+  margin-left: 15rem;
+  display: flex;
+  flex-flow: row;
+  gap: 4rem;
+}
+
+.info__icon {
+  font-size: 12rem;
+}
+
+.info__text {
+  font-size: 3rem;
+  max-width: 70rem;
+}
+
+.info__title > h1 > span {
+  margin-left: 1rem;
+}
+
+.card__icon {
+  height: 10rem;
+  width: 10rem;
+  fill: var(--green-300);
+}
